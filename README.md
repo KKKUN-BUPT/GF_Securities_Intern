@@ -1,2 +1,2 @@
-# GF_Securities_intern
+# GF_Securities_Intern
 广发证券信息技术部暑期实习项目
